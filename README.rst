@@ -16,6 +16,7 @@ Formulas
 
 This repo currently supplies these formulas:
 
+* `civetweb <https://github.com/bel2125/civetweb>`_: an embeddable c/c++ web server
 * `dashpipe <https://github.com/DanielOaks/dashpipe>`_: a silly text conversion tool
 
 License
